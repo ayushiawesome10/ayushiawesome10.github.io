@@ -4,6 +4,18 @@ permalink: /career/
 author_profile: true
 ---
 
+July 2020 - Talk proposal "Short Term Context-based Fast Multilingual Acoustic Model for Low Resource Languages" accepted for Microsoft Machine Learning and Data Science (MLADS) Conference. 
+
+2018 - Awarded "Delight your Customer" for seamlessly onboarding Swachhbharat Mission on Microsoft Community Learning Platform which received widespread media attention. 
+
+August 2017 - Winners at VMWare Global Relay Open Source Borathon
+
+Feb 2016 - Awarded MITACS Globalink Award for carrying out a fully funded research internship at The University of Calgary. 
+
+2015 - Awarded best application award at Ayana, a 24 hour hackathon 
+
+
+
 ## My goal is to **shape the scientific vision** of a company which uses **computational biology or data science to impact society**.
 
 More specifically, I envision my eventual ideal **role** as a CSO, or CSO-like person. I want to:

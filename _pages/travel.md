@@ -10,7 +10,7 @@ author_profile: true
 
 My original flight was cancelled so I got to rebook on an earlier flight with my favorite route: layover in Austin, TX! So, of course, I did what one _must_ do there and got Tacodeli and Amy's ice cream. What joy.
 
-<img src="/images/2019/road-trip/2019-06-04_austin_airport_feast.jpg" width="45%">
+<img src="/images/2019/road-trip/2019-06-04_austin_airport_feast.jpg" width="45%"> Hello World Application on the same line.
 
 Ben picked me up at the airport and... that's it! The end of a truly wonderful trip. So many people have been saying "wow, what a once-in-a-lifetime trip" -- to which my response is "hopefully not." Because if there's one thing I've learned on this trip, apart from the definitive fact that I do indeed get hangry, it's that there's still so much more to see.
 

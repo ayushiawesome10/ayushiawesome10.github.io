@@ -8,6 +8,8 @@ redirect_from:
 
 ***
 
+<a href="username.github.io/files/Aditya_Agarwal_CV.pdf" target="_blank">PDF.</a>
+
 # Education
 
 **Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    

@@ -27,7 +27,7 @@ We propose an end-to-end pipeline for the task of human action recognition on vi
 We propose an architecture based on short term contextual temporal features learned on Convolutional Neural Networks (CNNs) with a non-sequential discriminative network for building a multilingual automation speech recognition system. Three low resource Indic languages, Gujarati, Tamil, and Telugu are used ascertain that our proposed architecture trains 5.5x faster and reduces the inference time by a factor of 26 while maintaining word error rates against comparable baseline RNNs. 
 
 **Minimally Supervised Sound Event Detection using a Neural Network, 2016**
-Neural Networks, (Published at ICACCI 2016, <a href="/files/SoundEventDetection.pdf">paper</a>)
+Neural Networks, (Published at ICACCI 2016, <a href="/files/SoundEventDetection.pdf">paper</a>), <a href="https://github.com/skymanaditya1/Neural_Network_Dataset_Generation">Code</a>
 
 <div class="img-wrapper">
     <img id="event_first" class="event_detection" src="/images/soundeventdetection_1.jpg" height="250px" alt="Phase I">
@@ -47,11 +47,14 @@ We propose a sound event detection system that is trained using a minimally anno
 Devised a grammar to generate Mathematics word statement problems dynamically from a given system of non-linear singular questions. Built as a pedagogical tool for learning in India. 
 
 **F.A.R. Framework - A binary framework where information retrieval is Fast, Accurate, and Relevant (2015)** (<a href="/files/FAR_Framework.pdf">paper</a>)
+
 Built a framework where the relation between the entities is represented in the form of an adjacency matrix. Set relational operations are performed to extract relevant and accurate information in a timely manner. 
 Published as a research paper in IJERT and won the best paper at NCACCT. 
 
-**Apache Giraph deployed on Apache Hadoop - Case study of a Graph database framework (2015)** 
+**Apache Giraph deployed on Apache Hadoop - Case study of a Graph database framework (2015)**, <a href="https://github.com/skymanaditya1/Apache-Giraph-Deployed-on-Apache-Hadoop">Code</a>
+
 Deployed and tracked the performance of Apache Giraph jobs on single node and multi node setup of Apache Hadoop cluster. Also wrote a conversion algorithm to convert the format of Large Network graphs on SNAP (Stanford Network Analysis Project) into the JSON format accepted by Giraph. 
 
 **Shopping Kart - A smart e-commerce framework (2014)**
+
 Designed a prototype of an e-commerce application in Android with search functionality implemented using Trie trees and next item purchase prediction using Priority Queues. The project was done as part of the Data Structures and Algorithms coursework. 

@@ -1,6 +1,6 @@
 ---
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience_awards/
 author_profile: true
 redirect_from:
   - /resume

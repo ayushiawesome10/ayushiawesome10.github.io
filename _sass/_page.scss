@@ -16,6 +16,24 @@
   }
 }
 
+.event_detection {
+  display: inline-block;
+  height: 225px;
+}
+
+#pose_img {
+  height: 250px;
+}
+
+#event_first {
+  margin-right: 20px;
+}
+
+.img-wrapper {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);

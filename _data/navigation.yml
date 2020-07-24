@@ -21,11 +21,17 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Updates"
-    url: /career/
+  - title: "Experience"
+    url: /experience_awards/
+
+#  - title: "Awards & In News"
+#    url: /portfolio/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Aditya_Agarwal_CV.pdf
 
-  - title: "Memories"
-    url: /travel/
+#  - title: "Trip down the memory lane"
+#    url: /travel/
+
+#  - title: "Bucket List"
+#    url: /bucket/

@@ -2,12 +2,18 @@
    BASE ELEMENTS
    ========================================================================== */
 
+html {
+  min-height: 100%;
+  position: relative;
+}
+
 body {
   margin: 0;
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  height: 100%;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -108,7 +114,7 @@ blockquote {
 a {
 
   text-decoration: underline;
-  color: $text-color;
+  color: blue;
 
   &:focus {
     @extend %tab-focus;

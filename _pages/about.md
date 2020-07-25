@@ -9,10 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at Microsoft India working on problems in NLP and Data Science. Our team powers the Bing's People Also Ask experience which involves showing related question and answers for a given query solving intents in query exploration and reformulation. I am working on multilingual techniques for enabling PAA in non-English markets. 
+I'm a Data Scientist at Microsoft India working on problems in NLP and Data Science. Our team powers the Bing's People Also Ask experience which involves showing related question and answers at scale for a given user query helping users in tasks such as query exploration and reformulation. I work on data science and deep learning techniques to improve the coverage and relevance of our experience and also work on universalizing our stack across multiple markets and languages.
 
-I am passionate about the applications of AI and Deep Learning to the field of Computer Vision, Natural Language Processing and Speech Recognition. 
+Prior to joining Microsoft, I did my internships at Microsoft Research Labs India and The University of Calgary as an undergraduate student from PES Institute of Technology where I completed my Bachelors in Computer Science and Engineering in 2017. I am passionate about the applications of AI and Deep Learning in the field of Computer Vision and Natural Language Processing and I am always on the lookout for interesting problems and challanges. 
 
-I graduated with a Bachelors in Computer Science and Engineering from PES Institute of Technology, Bangalore in 2017. 
-
-I did a 3 month research intern in Canada and have been to Japan as a student delegate and would love to travel and explore the world. I play drums and keyboard. I have also played tabla and badminton professionally. 
+I love to travel and would like to explore the world one day. I play drums and keyboard and have played tabla and badminton professionally.

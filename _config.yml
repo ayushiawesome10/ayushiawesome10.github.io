@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditya Agarwal"
+title                    : "Ayushi Agarwal"
 title_separator          : "-"
-name                     : &name "Aditya Agarwal"
-description              : &description "Aditya Agarwal"
-url                      : https://skymanaditya1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ayushi Agarwal"
+description              : &description "Ayushi Agarwal"
+url                      : https://ayushiawesome10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skymanaditya1/skymanaditya1.github.io"
+repository               : "ayushiawesome10/ayushiawesome10.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : skymanaditya1
+  username               : ayushiawesome10
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aditya Agarwal"
-  avatar           : "aditya_cropped.jpg"
-  bio              : "Data Scientist at Microsoft Bing"
-  location         : "Hyderabad, India"
+  name             : "Ayushi Agarwal"
+  avatar           : "ayushi.jpg"
+  bio              : "Undergrad at PES UNIVERSITY"
+  location         : "Bangalore, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=64Cgbv4AAAAJ&hl=en"
-  email            : "skymanaditya1@gmail.com"
+  email            : "ayushiawesome10@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skymanaditya1"
+  github           : "ayushiawesome10"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "skymanaditya1"
+  linkedin         : "ayushiawesome10"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

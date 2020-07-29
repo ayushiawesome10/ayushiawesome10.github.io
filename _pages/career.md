@@ -13,4 +13,4 @@ More specifically, I envision my eventual ideal **role** as a CSO, or CSO-like p
 - shape the long-term vision of the company I am a part of
 
 ## **Jobs that would excite me:**
--creating computerised robots that could imitate the working, do's and not's of a human being.
+-creating computerised robots that could imitate the working of a human being.
